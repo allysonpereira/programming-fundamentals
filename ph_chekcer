@@ -1,0 +1,26 @@
+print( "Running the pH checker program …")
+print( "Assuming valid numeric input" )
+print(" ")
+ph = float(input("What is the pH that you want to know about? "))
+
+def question1a(ph):
+
+    if ph == 7:
+        return "This ph is neutral."
+
+    elif ph > 10:
+        return "This ph is VERY alkali."
+        
+    elif ph > 7:
+        return "This ph is alkali."
+        
+    elif ph < 4:
+        return "This ph is VERY acidic."
+    
+    elif ph < 7:
+        return "This ph is acidic."        
+
+answer = question1a(ph)
+print("The answer is: " + answer)
+
+print("")
