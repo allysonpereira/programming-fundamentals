@@ -6,4 +6,6 @@ Projects: Covers basic syntax, control structures, functions, data structures, f
 
 How to Use: Browse projects, clone repository, follow README instructions, contribute, and start with "Beginner-Friendly" projects.
 
-Feedback and Support: Open issues for questions, feedback, or issues. Happy coding!
+Feedback and Support: Open issues for questions, feedback, or issues. 
+
+Happy coding!
